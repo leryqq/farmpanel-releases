@@ -26,7 +26,7 @@ FarmPanel — десктопная панель для Windows, которая �
 [![downloads](https://img.shields.io/github/downloads/leryqq/farmpanel-releases/total?label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9&color=b6f0c9&labelColor=07070a&style=flat-square)](https://github.com/leryqq/farmpanel-releases/releases)
 [![telegram](https://img.shields.io/badge/telegram-farmpanel__ru-d9b8f0?labelColor=07070a&style=flat-square)](https://t.me/farmpanel_ru)
 
-Также доступно на: [English](./README.md) · [Español](./README.es.md)
+Также доступно на: [English](./README.md) · [Español](./README.es.md) · [Português](./README.pt.md) · [Français](./README.fr.md) · [Türkçe](./README.tr.md) · [Bahasa Indonesia](./README.id.md) · [Tiếng Việt](./README.vi.md) · [हिन्दी](./README.hi.md) · [中文](./README.zh.md) · [العربية](./README.ar.md)
 
 </div>
 

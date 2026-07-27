@@ -25,7 +25,7 @@ one window, with no autofarm and no bots involved.
 [![downloads](https://img.shields.io/github/downloads/leryqq/farmpanel-releases/total?label=downloads&color=b6f0c9&labelColor=07070a&style=flat-square)](https://github.com/leryqq/farmpanel-releases/releases)
 [![telegram](https://img.shields.io/badge/telegram-farmpanel__en-d9b8f0?labelColor=07070a&style=flat-square)](https://t.me/farmpanel_en)
 
-Also available in: [Русский](./README.ru.md) · [Español](./README.es.md)
+Also available in: [Русский](./README.ru.md) · [Español](./README.es.md) · [Português](./README.pt.md) · [Français](./README.fr.md) · [Türkçe](./README.tr.md) · [Bahasa Indonesia](./README.id.md) · [Tiếng Việt](./README.vi.md) · [हिन्दी](./README.hi.md) · [中文](./README.zh.md) · [العربية](./README.ar.md)
 
 </div>
 

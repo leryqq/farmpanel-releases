@@ -25,7 +25,7 @@ cuentas a varios cientos— desde una sola ventana, sin autofarm y sin bots.
 [![downloads](https://img.shields.io/github/downloads/leryqq/farmpanel-releases/total?label=descargas&color=b6f0c9&labelColor=07070a&style=flat-square)](https://github.com/leryqq/farmpanel-releases/releases)
 [![telegram](https://img.shields.io/badge/telegram-farmpanel__es-d9b8f0?labelColor=07070a&style=flat-square)](https://t.me/farmpanel_es)
 
-Disponible también en: [English](./README.md) · [Русский](./README.ru.md)
+Disponible también en: [English](./README.md) · [Русский](./README.ru.md) · [Português](./README.pt.md) · [Français](./README.fr.md) · [Türkçe](./README.tr.md) · [Bahasa Indonesia](./README.id.md) · [Tiếng Việt](./README.vi.md) · [हिन्दी](./README.hi.md) · [中文](./README.zh.md) · [العربية](./README.ar.md)
 
 </div>
 
